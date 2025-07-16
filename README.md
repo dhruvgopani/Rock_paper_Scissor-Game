@@ -1,2 +1,2 @@
 # Rock_paper_Scissor-Game
-Rock-paper-scissor game
+Game Link 🔗: https://dhruvgopani.github.io/Rock-Paper-Scissor-Game/
